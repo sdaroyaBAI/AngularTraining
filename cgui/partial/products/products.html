@@ -8,7 +8,11 @@
             {{product.id}}
         </div>
         <div class="col-md-10">
-            <product-directive value="product.name" on-save="ctrl.save(newValue)"/>
+            <editable-text value="product.name" on-save="ctrl.save(newValue)" >
+                <div>
+                    HELLO
+                <div>
+            </editable-text>
         </div>
         <!--
         <div class="col-md-8" ng-hide="$$editMe">

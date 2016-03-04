@@ -1,0 +1,39 @@
+<div class="col-md-12 container" ng-controller="HomeCtrl">
+
+    <div class="row">
+        <input type="text" ng-model="text">
+        HELLO {{text + '!'}}
+    </div>
+    <div class="row">
+        {{ 5 + 5 }}
+    </div>
+    <div class="row">
+        {{ getString() }}
+    </div>
+    <div class="row">
+        <div ng-if="hide">
+            HIDDEN
+        </div>
+        <div class="demoDivButton" ng-click="buttonClick()">
+            Click Me
+        </div>
+    </div>
+    <div class="row">
+        <div ng-repeat="item in array" class="row">
+            {{item}}
+            <div class="demoDivButton" ng-click="removeItem(item)">
+                remove
+            </div>
+        </div>
+        <input type="text" ng-model="newItem">
+        <div class="demoDivButton" ng-click="addItem()">
+            add
+        </div>
+    </div>
+
+    <div class="row" ng-bind="boundItem">
+    </div>
+
+
+
+</div>

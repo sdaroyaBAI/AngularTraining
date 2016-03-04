@@ -1,0 +1,12 @@
+D:\Projects\training\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\bin\Debug\SampleRestAPI.ServiceModel.dll
+D:\Projects\training\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\bin\Debug\SampleRestAPI.ServiceModel.pdb
+D:\Projects\training\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+D:\Projects\training\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\obj\Debug\SampleRestAPI.ServiceModel.csprojResolveAssemblyReference.cache
+D:\Projects\training\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\obj\Debug\SampleRestAPI.ServiceModel.dll
+D:\Projects\training\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\obj\Debug\SampleRestAPI.ServiceModel.pdb
+C:\angularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\bin\Debug\SampleRestAPI.ServiceModel.dll
+C:\angularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\bin\Debug\SampleRestAPI.ServiceModel.pdb
+C:\angularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\angularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\obj\Debug\SampleRestAPI.ServiceModel.csprojResolveAssemblyReference.cache
+C:\angularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\obj\Debug\SampleRestAPI.ServiceModel.dll
+C:\angularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\obj\Debug\SampleRestAPI.ServiceModel.pdb

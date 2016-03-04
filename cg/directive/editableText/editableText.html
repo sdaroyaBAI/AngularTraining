@@ -1,0 +1,19 @@
+<div>
+    <div  class="editableText-value" ng-hide="ctrl.$$editMe">
+        {{ctrl.tempValue}}
+    </div>
+    <div  class="editableText-value" ng-show="ctrl.$$editMe">
+        <input type="text" ng-model="ctrl.tempValue" class="big-text"/>
+    </div>
+    <div  class=" editableText-actionContainer"  ng-show="ctrl.$$editMe" ng-click="ctrl.save(ctrl.tempValue)">
+        <span class="glyphicon glyphicon-ok"/>
+    </div>
+    <div  class=" editableText-actionContainer "  ng-hide="ctrl.$$editMe" ng-click="ctrl.$$editMe = ! ctrl.$$editMe">
+        <span class="glyphicon glyphicon-pencil"/>
+    </div>
+
+    <div  ng-hide="ctrl.$$editMe" ng-click="ctrl.delete()">
+        DELETE
+    </div>
+
+</div>

@@ -11,6 +11,19 @@ angular.module('main').config(function($stateProvider, $urlRouterProvider) {
     });
 
     
+    $stateProvider.state('Feed', {
+        url: '/feed',
+        templateUrl: 'partial/Feed/Feed.html'
+    });
+    $stateProvider.state('post', {
+        url: '/post/:id',
+        templateUrl: 'partial/post/post.html'
+    });
+
+    $stateProvider.state('createPost', {
+        url: '/createPost',
+        templateUrl: 'partial/createPost/createPost.html'
+    });
     /* Add New States Above */
     $urlRouterProvider.otherwise('/home');
 
