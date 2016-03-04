@@ -41,6 +41,7 @@ namespace SampleRestAPI
             {
                 //Allow cookies be accessed by the client. Session cookies are not allowed
                 AllowNonHttpOnlyCookies = true,
+                AllowSessionCookies = true,
                 DefaultContentType = MimeTypes.Json
             });
 
@@ -67,36 +68,29 @@ namespace SampleRestAPI
             container.Register<ICacheClient>(new MemoryCacheClient());
             container.Register<IDbConnectionFactory>(
                 new OrmLiteConnectionFactory(Properties.Settings.Default.LocalSqlConnectionString, SqlServerOrmLiteDialectProvider.Instance));
-           // container.Register<IAuthRepository>(c => new CustomUserRepository(c.Resolve<IDbConnectionFactory>()) { UseDistinctRoleTables = true });
+            container.Register<IAuthRepository>(new OrmLiteAuthRepository(container.Resolve<IDbConnectionFactory>()) { UseDistinctRoleTables = true });
 
 
-
-            #region Setup Repositories
+            #region Setup RepositoriesOrmLiteAuthRepository
             container.RegisterAutoWiredAs<BlogPostRepository, IBlogPostRepository>();
             #endregion
 
 
             #region Auth Plugin
 
-
-            //container.Register<IAuthSession>(new CustomAuthUserSession()
-            //{
-            //    _customUserAuthRoleRepo = container.Resolve<ICustomUserAuthRoleRepository>(),
-            //    _permissionRepo = container.Resolve<IPermissionRepository>(),
-            //    _roleScopePermissionRepo = container.Resolve<IRoleScopePermissionRepository>(),
-            //    _roleScopeRepo = container.Resolve<IRoleScopeRepository>(),
-            //    _scopeRepo = container.Resolve<IScopeRepository>()
-            //});
-            //var authUserSession = container.Resolve<IAuthSession>();
-            //Plugins.Add(new AuthFeature(() => authUserSession,
-            //    new IAuthProvider[] { 
-            //        new CustomBasicAuthProvider()
-            //    }));
+             
+            Plugins.Add(new AuthFeature(() => new AuthUserSession(),
+                new IAuthProvider[] { 
+                    new BasicAuthProvider(),
+                    new CredentialsAuthProvider()
+                    
+                }));
 
 
             #endregion
 
             ConfigureRoutes();
+            container.Resolve<IAuthRepository>().InitSchema();
         }
 
         private void ConfigureRoutes()

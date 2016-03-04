@@ -65,9 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BlogPostService\BlogPostService.cs" />
-    <Compile Include="BlogPostService\UpdateBlogPostRequest.cs" />
     <Compile Include="MyServices.cs" />
-    <Compile Include="ProductsService\ProductService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

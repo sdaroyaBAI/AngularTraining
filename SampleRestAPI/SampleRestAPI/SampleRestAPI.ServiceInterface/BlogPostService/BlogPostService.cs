@@ -49,7 +49,11 @@ namespace SampleRestAPI.ServiceInterface.BlogPostService
                        AuthorName = "",
                        AuthorId = itm.AuthorId
                    };
-            } 
+            }
+            else
+            {
+                throw new HttpError(404, "Not Found");
+            }
             return response;
         }
 
@@ -78,8 +82,19 @@ namespace SampleRestAPI.ServiceInterface.BlogPostService
         public void Delete(DeleteBlogPostRequest request)
         {
             var post = _blogPostRepo.FindOne(request.Id);
-            throw new HttpError(404, "Not found");
+            if (post == null)
+                throw new HttpError(404, "No Found");
             _blogPostRepo.Delete(request.Id);
+        }
+
+        public void Put(UpdateBlogPostRequest request)
+        {
+            var post = _blogPostRepo.FindOne(request.Id);
+            if (post == null)
+                throw new HttpError(404, "No Found");
+            post.Body = request.Body;
+            post.Title = request.Title;
+            _blogPostRepo.Update(post);
         }
     }
 }

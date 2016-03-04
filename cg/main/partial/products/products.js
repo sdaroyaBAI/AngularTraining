@@ -19,7 +19,7 @@
 		{name: 'product 5', id:5},
 		{name: 'product 6', id:6},
 		{name: 'product 7', id:7},
-		]
+		];
 
 	}
 }) ();

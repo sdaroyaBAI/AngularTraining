@@ -1,0 +1,14 @@
+<div class="col-md-12">
+    <div class="row">
+            <input type="text" placeholder="Enter Post Title" ng-model="ctrl.post.Title" class="createPost-title"/>
+    </div>
+    <div class="row">
+        <textarea ng-model="ctrl.post.Body" class="createPost-body row"/>
+    </div>
+    <div ng-click="ctrl.save()" class="training-button">
+        Save
+    </div>
+    <div ui-sref="feed" class="training-button">
+        Back
+    </div> 
+</div>

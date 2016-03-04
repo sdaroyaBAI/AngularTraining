@@ -49,10 +49,10 @@
     <Compile Include="BlogPost\BlogPostListResponse.cs" />
     <Compile Include="BlogPost\BlogPostResponse.cs" />
     <Compile Include="BlogPost\DeleteBlogPostRequest.cs" />
+    <Compile Include="BlogPost\UpdateBlogPostRequest.cs" />
     <Compile Include="ListResponse.cs" />
     <Compile Include="BlogPost\SingleBlogPostRequest.cs" />
     <Compile Include="Hello.cs" />
-    <Compile Include="ProductService\DeleteProductRequest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
