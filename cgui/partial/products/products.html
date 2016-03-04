@@ -1,0 +1,25 @@
+<!-- <div class="col-md-12" ng-controller="ProductsCtrl">
+
+
+</div> -->
+<div class="col-md-12" >
+    <div ng-repeat="product in ctrl.products" class="row big-font">
+        <div class="col-md-2" ui-sref="editProduct({id: product.id})">
+            {{product.id}}
+        </div>
+        <div class="col-md-10">
+            <product-directive value="product.name" on-save="ctrl.save(newValue)"/>
+        </div>
+        <!--
+        <div class="col-md-8" ng-hide="$$editMe">
+            {{product.name}}
+        </div>
+        <div class="col-md-8" ng-show="$$editMe">
+            <input type="text" ng-model="product.name" class="big-text"/>
+        </div>
+        <div class="col-md-2" ng-click="$$editMe = ! $$editMe">
+            <span class="glyphicon glyphicon-pencil" ng-hide="$$editMe"/>
+            <span class="glyphicon glyphicon-ok" ng-show="$$editMe"/>
+        </div> -->
+    </div>
+</div>
