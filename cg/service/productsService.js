@@ -23,7 +23,7 @@
 			}
 		}
 		return null;
-	}
+	} 
 
 
 	/*inject*/
@@ -33,22 +33,8 @@
 			getAllProducts: getAllProducts,
 			getProductById: getProductById
 		};
+
+
 		return productsService;
 	}
-
-	function productDeleteService($http, $q){
-			function deleteProduct(id){
-				var promise =  $http({
-					url: "http://localhost:8001/products/" + id,
-					method: "DELETE"
-				});
-
-
-				return promise;
-			}
-			var service = {
-				deleteProduct : deleteProduct
-			};
-			return service;
-		}
 })();

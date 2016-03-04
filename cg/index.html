@@ -36,6 +36,10 @@
   <script src="directive/editableText/editableText.js"></script>
   <script src="service/productsService.js"></script>
   <script src="partial/edit-product/edit-product.js"></script>
+  <script src="partial/Feed/Feed.js"></script>
+  <script src="partial/post/post.js"></script>
+  <script src="partial/createPost/createPost.js"></script>
+  <script src="service/postService.js"></script>
   <!-- Add New Component JS Above -->
 
   <div>
@@ -48,12 +52,8 @@
   </div>
 <div id="page-container" class="ng-cloak">
   <navigation-bar></navigation-bar>
-  <div id="page-content" class="container-fluid">
-      <div class="row">
-          <div ng-view></div>
-          <toaster-container toaster-options="{'position-class': 'toast-bottom-right', 'time-out' : '2500', 'close-button': true}"></toaster-container>
-      </div>
-  </div>
+  <toaster-container toaster-options="{'position-class': 'toast-bottom-right', 'time-out' : '2500', 'close-button': true}"></toaster-container>
+
   <!--
   Hiding the footer for the meantime as requested by Kirushi
   <div id="page-footer">

@@ -1,7 +1,7 @@
 
 (function(){
     "use strict";
-    angular.module('main').controller('PostCtrl', postController);
+    angular.module('cgTraining').controller('PostCtrl', postController);
 
 
     postController.$inject = ['$scope','$q','postService','$stateParams'];

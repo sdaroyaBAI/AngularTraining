@@ -16,7 +16,31 @@ angular.module('cgTraining').config(function($stateProvider, $urlRouterProvider)
         url: '/edit-product/:id',
         templateUrl: 'partial/edit-product/edit-product.html',
         controller: 'EditProductCtrl',
-        controllerAs: 'ctrl',
+        controllerAs: 'ctrl'
+    });
+    $stateProvider.state('feed', {
+        url: '/feed',
+        templateUrl: 'partial/Feed/Feed.html',
+        controller: 'FeedCtrl',
+        controllerAs: 'ctrl'
+    });
+    $stateProvider.state('post', {
+        url: '/post/:id',
+        templateUrl: 'partial/post/post.html',
+        controller: 'PostCtrl',
+        controllerAs: 'ctrl'
+    });
+    $stateProvider.state('createPost', {
+        url: '/create-post',
+        templateUrl: 'partial/createPost/createPost.html',
+        controller: 'CreatepostCtrl',
+        controllerAs: 'ctrl'
+    });
+    $stateProvider.state('editPost', {
+        url: '/edit-post/:id',
+        templateUrl: 'partial/createPost/createPost.html',
+        controller: 'CreatepostCtrl',
+        controllerAs: 'ctrl'
     });
     /* Add New States Above */
     $urlRouterProvider.otherwise('/home');

@@ -1,4 +1,27 @@
-<div class="col-md-12" ng-controller="FeedCtrl">
+<div class="col-md-12">
 
 
+    <div ng-repeat="item in ctrl.posts"  class="row">
+        <div class="col-xs-2">
+            {{item.Id}}
+        </div>
+        <div class="col-xs-10" ui-sref="post({id:item.Id})">
+            {{item.Title}}
+        </div>
+        <div class="col-xs-8 itemRow">
+            {{item.Body}}
+        </div>
+        <div class="col-xs-4">
+            <div class=training-button ng-click="ctrl.deletePost(item.Id)">
+                Delete
+            </div>
+
+            <div ui-sref="editPost({id:item.Id})" class=training-button>
+                Edit
+            </div>
+        </div>
+    </div>
+    <div ui-sref="createPost" class=training-button>
+        Add New
+    </div>
 </div>
