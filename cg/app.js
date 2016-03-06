@@ -48,6 +48,12 @@ angular.module('cgTraining').config(function($stateProvider, $urlRouterProvider)
         controller: 'LoginCtrl',
         controllerAs: 'ctrl'
     });
+    $stateProvider.state('register', {
+        url: '/register',
+        templateUrl: 'partial/register/register.html',
+        controller: 'RegisterCtrl',
+        controllerAs: 'ctrl'
+    });
     /* Add New States Above */
     $urlRouterProvider.otherwise('/home');
 
