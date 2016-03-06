@@ -4,3 +4,9 @@ D:\Projects\training\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\bin\
 D:\Projects\training\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\obj\Debug\SampleRestAPI.ServiceModel.csprojResolveAssemblyReference.cache
 D:\Projects\training\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\obj\Debug\SampleRestAPI.ServiceModel.dll
 D:\Projects\training\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\obj\Debug\SampleRestAPI.ServiceModel.pdb
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\bin\Debug\SampleRestAPI.ServiceModel.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\bin\Debug\SampleRestAPI.ServiceModel.pdb
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\obj\Debug\SampleRestAPI.ServiceModel.csprojResolveAssemblyReference.cache
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\obj\Debug\SampleRestAPI.ServiceModel.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\obj\Debug\SampleRestAPI.ServiceModel.pdb

@@ -1,0 +1,5 @@
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\bin\Release\SampleRestAPI.ServiceModel.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\bin\Release\SampleRestAPI.ServiceModel.pdb
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\bin\Release\ServiceStack.Interfaces.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\obj\Release\SampleRestAPI.ServiceModel.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI\SampleRestAPI.ServiceModel\obj\Release\SampleRestAPI.ServiceModel.pdb

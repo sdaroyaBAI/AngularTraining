@@ -1,0 +1,11 @@
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Release\SampleRestAPI.Data.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Release\SampleRestAPI.Data.pdb
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Release\ServiceStack.Common.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Release\ServiceStack.Interfaces.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Release\ServiceStack.OrmLite.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Release\ServiceStack.OrmLite.SqlServer.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Release\ServiceStack.Text.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Release\ServiceStack.Common.xml
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Release\ServiceStack.Text.xml
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\obj\Release\SampleRestAPI.Data.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\obj\Release\SampleRestAPI.Data.pdb

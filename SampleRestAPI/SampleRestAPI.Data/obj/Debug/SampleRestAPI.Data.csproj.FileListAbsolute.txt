@@ -10,3 +10,15 @@ D:\Projects\training\SampleRestAPI\SampleRestAPI.Data\bin\Debug\ServiceStack.Com
 D:\Projects\training\SampleRestAPI\SampleRestAPI.Data\bin\Debug\ServiceStack.Text.xml
 D:\Projects\training\SampleRestAPI\SampleRestAPI.Data\obj\Debug\SampleRestAPI.Data.dll
 D:\Projects\training\SampleRestAPI\SampleRestAPI.Data\obj\Debug\SampleRestAPI.Data.pdb
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Debug\SampleRestAPI.Data.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Debug\SampleRestAPI.Data.pdb
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Debug\ServiceStack.Common.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Debug\ServiceStack.Interfaces.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Debug\ServiceStack.OrmLite.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Debug\ServiceStack.Text.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Debug\ServiceStack.Common.xml
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\bin\Debug\ServiceStack.Text.xml
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\obj\Debug\SampleRestAPI.Data.csprojResolveAssemblyReference.cache
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\obj\Debug\SampleRestAPI.Data.dll
+F:\AngularJS\AngularTraining\SampleRestAPI\SampleRestAPI.Data\obj\Debug\SampleRestAPI.Data.pdb
