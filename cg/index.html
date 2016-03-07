@@ -21,6 +21,7 @@
   <script src="bower_components/angular/angular.js"></script>
   <script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
   <script src="bower_components/angular-animate/angular-animate.js"></script>
+  <script src="bower_components/angular-messages/angular-messages.js"></script>
   <script src="bower_components/angular-resource/angular-resource.js"></script>
   <script src="bower_components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
   <script src="bower_components/angular-ui-utils/ui-utils.js"></script>
@@ -41,7 +42,8 @@
   <script src="partial/createPost/createPost.js"></script>
   <script src="service/postService.js"></script>
   <script src="partial/login/login.js"></script>
-  <script src="partial/register/register.js"></script>
+  <script src="service/authService.js"></script>
+  <script src="partial/registration/registration.js"></script>
   <!-- Add New Component JS Above -->
 
   <div>
@@ -52,7 +54,7 @@
       </div>
     </div>
   </div>
-<div  class="ng-cloak"> 
+<div  class="ng-cloak">
   <toaster-container toaster-options="{'position-class': 'toast-bottom-right', 'time-out' : '2500', 'close-button': true}"></toaster-container>
 </div>
 </body>

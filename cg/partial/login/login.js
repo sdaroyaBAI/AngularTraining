@@ -3,18 +3,20 @@
     angular.module('cgTraining')
     .controller('LoginCtrl',loginController);
 
-    loginController.$inject = ['$http', '$state'];
-    function loginController($http,$state){
+    loginController.$inject = ['$http', '$state','toaster', 'authService'];
+    function loginController($http,$state,toaster,authService){
+        this.toaster = toaster;
         this.$http = $http;
         this.$state = $state;
+        this.authService = authService;
     }
-    loginController.prototype.login = function(){ 
-        this.$http({
-           url: "http://localhost:51715/auth/credentials/",
-           method: "POST",
-           data:this.credentials
-       }).then(function(response){
-           this.$state.go("feed");
-       }.bind(this));
+    loginController.prototype.login = function(){
+        var self = this;
+        this.authService.login(this.credentials)
+        .then(function(response){
+            self.$state.go('feed');
+        }, function(errorResponse){
+            self.toaster.warning("Error",errorResponse);
+        });
     };
 })();

@@ -1,0 +1,134 @@
+<div class="col-md-12">
+    <div class="col-md-8 col-md-offset-2">
+        <form name="ctrl.regForm">
+            <div class="row">
+                <div class="col-md-4">
+                    <label for="UserName">
+                        UserName
+                    </label>
+                </div>
+                <div class="col-md-8">
+                    <input class="form-control"
+                        ng-model="ctrl.UserName "
+                        ng-pattern="'[a-zA-Z0-9]+'"
+                        name="UserName"
+                        ng-minlength="5"
+                        ng-maxlength="20"
+                        required
+                        />
+                </div>
+                <div class="col-md-12">
+                    <pre>ctrl.UserName.$error = {{ctrl.regForm.UserName.$error | json}}</pre>
+                </div><div class="col-md-12">
+                    <pre>ctrl.regForm.UserName = {{ctrl.regForm.UserName | json}}</pre>
+                </div>
+            </div>
+            <div class="row errorLabels">
+                <div ng-messages="ctrl.regForm.UserName.$error" style="color:maroon" role="alert" ng-if="ctrl.regForm.UserName.$touched">
+                        <div ng-message="required">You did not enter a UserName</div>
+                        <div ng-message="minlength">Your UserName is too short</div>
+                        <div ng-message="maxlength">Your UserName is too long</div>
+                        <div ng-message="pattern">Only alphanumeric characters are allowed</div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <label for="FirstName">
+                        First Name
+                    </label>
+                </div>
+                <div class="col-md-8">
+                    <input class="form-control"
+                        ng-model="ctrl.FirstName "
+                        name="FirstName"
+                        required
+                        ng-pattern="'[a-zA-Z]+'"
+                        />
+                </div>
+            </div>
+            <div class="row errorLabels">
+                <div ng-messages="ctrl.regForm.FirstName.$error" style="color:maroon" role="alert" ng-if="ctrl.regForm.FirstName.$dirty">
+                        <div ng-message="required">You did not enter a field</div>
+                        <div ng-message="pattern">Only alphanumeric characters are allowed</div>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-4">
+                    <label for="LastName">
+                        Last Name
+                    </label>
+                </div>
+                <div class="col-md-8">
+                    <input class="form-control"
+                        ng-model="ctrl.LastName "
+                        name="LastName"
+                        required
+                        ng-pattern="'[a-zA-Z]+'"
+                        />
+                </div>
+            </div>
+            <div class="row errorLabels">
+                <div ng-messages="ctrl.regForm.LastName.$error" style="color:maroon" role="alert" ng-if="ctrl.regForm.LastName.$dirty">
+                        <div ng-message="required">You did not enter a field</div>
+                        <div ng-message="pattern">Only alphanumeric characters are allowed</div>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-4">
+                    <label for="Email">
+                        Email
+                    </label>
+                </div>
+                <div class="col-md-8">
+                    <input class="form-control"
+                        ng-model="ctrl.Email "
+                        name="Email"
+                        required
+                        ng-pattern="'[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,6}'"
+                        type="email"
+                        />
+                </div>
+            </div>
+            <div class="row errorLabels">
+                <div ng-messages="ctrl.regForm.Email.$error" style="color:maroon" role="alert" ng-if="ctrl.regForm.Email.$dirty">
+                        <div ng-message="required">You did not enter a field</div>
+                        <div ng-message="pattern">Must enter a valid email address</div>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-4">
+                    <label for="Password">
+                        Password
+                    </label>
+                </div>
+                <div class="col-md-8">
+                    <input class="form-control"
+                        ng-model="ctrl.Password "
+                        name="Password"
+                        ng-minlength="5"
+                        ng-maxlength="20"
+                        required
+                        type="password"
+                        />
+                </div>
+            </div>
+            <div class="row errorLabels">
+                <div ng-messages="ctrl.regForm.Password.$error" style="color:maroon" role="alert" ng-if="ctrl.regForm.Password.$dirty">
+                        <div ng-message="required">You did not enter a field</div>
+                        <div ng-message="minlength">Your Password is too short</div>
+                        <div ng-message="maxlength">Your Password is too long</div>
+                </div>
+            </div>
+
+
+        </form>
+    </div>
+
+</div>

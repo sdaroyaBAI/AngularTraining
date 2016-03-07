@@ -1,6 +1,10 @@
-angular.module('cgTraining', ['ui.bootstrap', 'ui.utils', 'ui.router', 'ngAnimate', 'test','toaster']);
+angular.module('cgTraining', ['ui.bootstrap', 'ui.utils', 'ui.router', 'ngAnimate', 'test','toaster','ngMessages']);
 
-angular.module('cgTraining').config(function($stateProvider, $urlRouterProvider) {
+angular.module('cgTraining').config(function($stateProvider, $urlRouterProvider,$httpProvider) {
+
+    // $httpProvider.defaults.headers.common['Access-Control-Allow-Origin'] = 'http://localhost:51715/';
+    // $httpProvider.defaults.withCredentials = true;
+
 
     $stateProvider.state('home', {
         url: '/home',
@@ -48,10 +52,10 @@ angular.module('cgTraining').config(function($stateProvider, $urlRouterProvider)
         controller: 'LoginCtrl',
         controllerAs: 'ctrl'
     });
-    $stateProvider.state('register', {
+    $stateProvider.state('registration', {
         url: '/register',
-        templateUrl: 'partial/register/register.html',
-        controller: 'RegisterCtrl',
+        templateUrl: 'partial/registration/registration.html',
+        controller: 'RegistrationCtrl',
         controllerAs: 'ctrl'
     });
     /* Add New States Above */

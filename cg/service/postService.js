@@ -34,8 +34,7 @@
 			function getAllPosts(){
 				var promise =  $http({
 					url: "http://localhost:51715/posts/",
-					method: "GET",
-					withCredentials:true
+					method: "GET"
 				}).then(function(response){
 					return response;
 				}, function(errorResponse){
