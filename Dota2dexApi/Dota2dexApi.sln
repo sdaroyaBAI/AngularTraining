@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dota2dexApi.Domain", "Dota2dexApi\Dota2dexApi.Domain.csproj", "{A95287E3-4606-4B66-9EB4-C89B087D27E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dota2dexApi.Domain.Entities", "Dota2dexApi.Domain.Entities\Dota2dexApi.Domain.Entities.csproj", "{D583A065-DD85-4D18-BA24-C2C57A3C57B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dota2dexApi.Infra.Data", "Dota2dexApi.Infra.Data\Dota2dexApi.Infra.Data.csproj", "{AC847E04-4113-41AD-A933-40795EE531B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dota2dexApi.WebApi", "Dota2dexApi.WebApi\Dota2dexApi.WebApi.csproj", "{A58D0465-63A3-467C-B1CF-20467CFC7022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A95287E3-4606-4B66-9EB4-C89B087D27E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95287E3-4606-4B66-9EB4-C89B087D27E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95287E3-4606-4B66-9EB4-C89B087D27E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95287E3-4606-4B66-9EB4-C89B087D27E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D583A065-DD85-4D18-BA24-C2C57A3C57B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D583A065-DD85-4D18-BA24-C2C57A3C57B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D583A065-DD85-4D18-BA24-C2C57A3C57B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D583A065-DD85-4D18-BA24-C2C57A3C57B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC847E04-4113-41AD-A933-40795EE531B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC847E04-4113-41AD-A933-40795EE531B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC847E04-4113-41AD-A933-40795EE531B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC847E04-4113-41AD-A933-40795EE531B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A58D0465-63A3-467C-B1CF-20467CFC7022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58D0465-63A3-467C-B1CF-20467CFC7022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58D0465-63A3-467C-B1CF-20467CFC7022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58D0465-63A3-467C-B1CF-20467CFC7022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

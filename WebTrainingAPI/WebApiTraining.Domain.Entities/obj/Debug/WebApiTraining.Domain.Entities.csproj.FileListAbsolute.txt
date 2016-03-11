@@ -1,0 +1,5 @@
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.Domain.Entities\bin\WebApiTraining.Domain.Entities.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.Domain.Entities\bin\WebApiTraining.Domain.Entities.pdb
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.Domain.Entities\obj\Debug\WebApiTraining.Domain.Entities.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.Domain.Entities\obj\Debug\WebApiTraining.Domain.Entities.pdb
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.Domain.Entities\obj\Debug\WebApiTraining.Domain.Entities.csprojResolveAssemblyReference.cache

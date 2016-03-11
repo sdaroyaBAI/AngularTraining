@@ -1,0 +1,148 @@
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\WebApiTraining.WebApi.dll.config
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\WebApiTraining.WebApi.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\WebApiTraining.WebApi.pdb
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.Http.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.Http.xml
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\obj\Debug\WebApiTraining.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\obj\Debug\WebApiTraining.WebApi.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\obj\Debug\WebApiTraining.WebApi.pdb
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\WebApiTraining.Domain.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\WebApiTraining.Domain.Entities.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\WebApiTraining.Domain.pdb
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\WebApiTraining.Domain.Entities.pdb
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\EntityFramework.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\WebApiTraining.Infra.Data.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\WebApiTraining.Infra.Data.pdb
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\EntityFramework.xml
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Ninject.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Ninject.Web.Common.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Ninject.Web.Mvc.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\WebActivatorEx.dll
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Ninject.xml
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Ninject.Web.Common.xml
+C:\Users\hochoa\documents\visual studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Ninject.Web.Mvc.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.Helpers.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.Mvc.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.Razor.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.WebPages.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.Helpers.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.Mvc.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.Razor.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.WebPages.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Ninject.Web.WebApi.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Ninject.Web.WebApi.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.Cors.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Microsoft.Owin.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Owin.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Microsoft.Owin.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Ninject.Extensions.ContextPreservation.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Ninject.Extensions.NamedScope.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Ninject.Web.Common.OwinHost.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Ninject.Web.WebApi.OwinHost.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Ninject.Extensions.ContextPreservation.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Ninject.Extensions.NamedScope.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Ninject.Web.Common.OwinHost.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Ninject.Web.WebApi.OwinHost.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\hochoa\Documents\Visual Studio 2013\Projects\WebApiTraining\WebApiTraining.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\WebApiTraining.WebApi.dll.config
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\WebApiTraining.WebApi.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\WebApiTraining.WebApi.pdb
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\EntityFramework.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Microsoft.Owin.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Ninject.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Ninject.Extensions.ContextPreservation.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Ninject.Extensions.NamedScope.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Ninject.Web.Common.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Ninject.Web.Common.OwinHost.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Ninject.Web.Mvc.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Ninject.Web.WebApi.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Ninject.Web.WebApi.OwinHost.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Owin.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.Cors.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.Helpers.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.Http.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.Mvc.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.Razor.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.WebPages.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\WebActivatorEx.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\WebApiTraining.Domain.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\WebApiTraining.Domain.Entities.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\WebApiTraining.Infra.Data.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\WebApiTraining.Domain.Entities.pdb
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\WebApiTraining.Domain.pdb
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\WebApiTraining.Infra.Data.pdb
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\EntityFramework.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Microsoft.Owin.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Ninject.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Ninject.Extensions.ContextPreservation.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Ninject.Extensions.NamedScope.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Ninject.Web.Common.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Ninject.Web.Common.OwinHost.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Ninject.Web.Mvc.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Ninject.Web.WebApi.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Ninject.Web.WebApi.OwinHost.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.Helpers.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.Http.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.Mvc.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.Razor.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.WebPages.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\obj\Debug\WebApiTraining.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\obj\Debug\WebApiTraining.WebApi.dll
+C:\Users\sdaroya\Desktop\WebApiTraining(Complete)\WebApiTraining.WebApi\obj\Debug\WebApiTraining.WebApi.pdb
