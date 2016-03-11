@@ -1,0 +1,47 @@
+<div class="collapse navbar-collapse" ng-controller="HomeCtrl">
+    <ul class="nav navbar-nav">
+        <li><a ui-sref="home">Home</a></li>
+    </ul>
+
+    <ul class="nav navbar-nav right">
+        <li><a ui-sref="login">Login</a></li>
+        <li><a ui-sref="signup">Sign Up</a></li>
+    </ul>
+</div>
+
+<div class="jumbotron">
+  <div class="container">
+    <h1 class="text-center">Web Api Sample Authentication</h1>
+    <p>This module aims for myself to familiarize with ui design with the use of boostrap in preparation for the upcoming module in Authentication.</p>
+  </div>
+</div>
+
+
+<div  ng-controller="SignupCtrl">
+  <div class="col-sm-4"></div>
+  <div class="col-sm-4">
+      <div class="text-center">
+        <h2>Login</h2>
+        <form name="ctrl.loginForm">
+            <div class="center">
+                  <input class="form-control"
+                      ng-model="ctrl.account.UserName"
+                      name="UserName"
+                      placeholder = "User Name"
+                      />
+              </div>
+              <div class="center">
+                    <input class="form-control"
+                        ng-model="ctrl.account.Password "
+                        name="Password"
+                        placeholder="Password"
+                        />
+              </div>
+              <div class="center" ng-click="ctrl.login()">
+                <button type="button" class="btn btn-primary btn-block">Login</button>
+              </div>
+        </form>
+
+      </div>
+  </div>
+</div>

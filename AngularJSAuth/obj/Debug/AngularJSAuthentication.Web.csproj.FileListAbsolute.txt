@@ -1,0 +1,6 @@
+D:\Projects\WebApi\AngularJSAuthentication-master\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll.config
+D:\Projects\WebApi\AngularJSAuthentication-master\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll
+D:\Projects\WebApi\AngularJSAuthentication-master\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.pdb
+D:\Projects\WebApi\AngularJSAuthentication-master\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.csprojResolveAssemblyReference.cache
+D:\Projects\WebApi\AngularJSAuthentication-master\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.dll
+D:\Projects\WebApi\AngularJSAuthentication-master\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.pdb

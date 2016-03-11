@@ -1,4 +1,4 @@
-describe('HomeCtrl', function() {
+describe('Homie Ctrl', function() {
 
 	beforeEach(module('cgTraining'));
 
@@ -7,12 +7,12 @@ describe('HomeCtrl', function() {
     beforeEach(inject(function($rootScope, $controller) {
       scope = $rootScope.$new();
       ctrl = $controller('HomeCtrl', {$scope: scope});
-    }));	
+    }));
 
 	it('should ...', inject(function() {
 
-		expect(1).toEqual(1);
-		
+		expect(ctrl).toBeTruthy();
+
 	}));
 
 });

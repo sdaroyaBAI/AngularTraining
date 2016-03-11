@@ -6,14 +6,19 @@
 
 
     function feedController(postService, toaster, authService){
-        authService.checkAuth();
+        this.authService = authService;
         this.postService = postService;
         this.toaster= toaster;
-        this.getAllPosts();
     }
+    feedController.prototype.init = function(){
+        this.authService.checkAuth();
+        this.getAllPosts();
+    };
     feedController.prototype.getAllPosts = function(){
         this.postService.getAllPosts().then(function(response){
             this.posts = response.data.Content;
+        }.bind(this), function(errorResponse){
+            this.$$error = errorResponse.status;
         }.bind(this));
     };
     feedController.prototype.getColor = function(item){
@@ -23,10 +28,12 @@
         return 'rgb('+r+','+g+','+b+')';
     };
     feedController.prototype.deletePost = function(id){
-        this.postService.deletePost(id)
+        return this.postService.deletePost(id)
         .then(function(response){
-            this.toaster.warning("Success", "Post has been deleted");
+            this.toaster.success("Success", "Post has been deleted");
             this.getAllPosts();
+        }.bind(this), function(errorResponse){
+            this.toaster.warning("Warning", "Post was not deleted");
         }.bind(this));
 
     };

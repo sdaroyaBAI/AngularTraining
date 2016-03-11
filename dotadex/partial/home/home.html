@@ -1,0 +1,43 @@
+<nav class="navbar navbar-default">
+    <ul class="nav navbar-nav">
+        <li><a ui-sref="home" class="btn btn-primary">Home</a></li>
+    </ul>
+
+    <ul class="nav navbar-nav navbar-right">
+        <li><a ui-sref="login" class="btn btn-primary">Login</a></li>
+        <li><a ui-sref="signup" class="btn btn-primary">Sign Up</a></li>
+    </ul>
+</nav>
+
+<div class="jumbotron">
+  <div class="container">
+    <h1 class="text-center">Web Api Sample Authentication</h1>
+    <p>This module aims for myself to familiarize with ui design with the use of boostrap in preparation for the upcoming module in Authentication.</p>
+  </div>
+</div>
+
+<div class="container-fluid bg-3">
+  <div class="row">
+    <div class="col-sm-3">
+
+    </div>
+    <div class="col-sm-3">
+      <h3> Login </h3>
+      <p> Login to get access to my shit</p>
+      <div class="blueBigButton" ui-sref="login">
+        Login>>
+      </div>
+    </div>
+    <div class="col-sm-3">
+      <h3> Sign Up</h3>
+      <p> Sign Up so I can track what you access from my shit</p>
+      <div class="blueBigButton" ui-sref="signup">
+        Sign Up>>
+      </div>
+    </div>
+    <div class="col-sm-3">
+
+    </div>
+  </div>
+</div>
+<div ng-view></div>
